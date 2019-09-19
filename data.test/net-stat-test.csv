@@ -1,0 +1,6 @@
+#Id,Label,timeset,Degree,Weighted Degree,Eccentricity,closnesscentrality,harmonicclosnesscentrality,betweenesscentrality,modularity_class
+65537,,,249,597,4,0.463417,0.482663,0.000002,2
+69057,,,467,1351,4,0.47614,0.499859,0.000009,2
+0,,,2245,9690,4,0.554943,0.612059,0.002298,2
+1,,,230,665,4,0.474708,0.49039,0.000076,5
+4,,,341,1043,4,0.469297,0.490425,0.000029,0
