@@ -1,1 +1,1 @@
-# MAC.Research.MacDataProject
+# Identifying Research Communities using Common-Knowledge Network 
