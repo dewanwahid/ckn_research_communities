@@ -10,9 +10,9 @@ This project defines the concept of a common-knowledge network of authors in a r
 
 This repository presents our approach to identifying and analyzing dominant research topics based on the most frequent keywords, publications, and collaboration incident counts for each identified research community. 
 
-In addition to the code, this repository provides all clean and processed data collected from the public domain that we used in this research project. 
+In addition to the code, this repository provides all clean and processed data (data.types) collected from the public domain that we used in this research project. 
 
-### Dependencies
+## Dependencies
 Maven dependency of [jGrapht](https://jgrapht.org/javadoc/) to add this project:
 
 ```
@@ -20,5 +20,7 @@ Maven dependency of [jGrapht](https://jgrapht.org/javadoc/) to add this project:
 <artifactId>jgrapht-core</artifactId>
 <version>1.5.2</version
 ```
+### Quick Starts
+This directory [src\mac\pubdata\ckn](src\mac\pubdata\ckn) all steps: from data collection to identification of research communities in a formulated common-knowledge network for a institute. 
 
 If you have any questions, feel free to email at dfwahid@gmail.com. 
